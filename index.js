@@ -6,7 +6,7 @@ const { exec } = require("child_process");
 const fs = require("fs");
 const axios = require("axios");
 
-// github personal access token for auth
+// github personal access token for auth.
 const token = "";
 //github api end point
 const url = `https://api.github.com/user/repos`;
